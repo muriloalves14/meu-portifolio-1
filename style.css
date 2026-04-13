@@ -77,21 +77,23 @@ section {
   background-image: url(assents/imagem\ s.png);
   background-size: cover;
   background-position: center;
+ 
   h2 {
     font-size: 12vw;
-    color: rgba(206, 200, 200, 0.664);
+    color: rgba(101, 111, 155, 0.664);
     mix-blend-mode: color-dodge;
     margin: 10px 10px;
+    
   }
   h1 {
     font-size: 10vw;
     color: rgba(211, 198, 198, 0.788);
-    margin: 10 px 0;
+    margin: 10px 5px;
   
   }
 
   p {
-    font-size: 20px;
+    font-size: 20x;
      color: rgb(255, 255, 255);
 
   }
@@ -99,8 +101,7 @@ section {
   .paragrafo {
     font-size: 25px;
      color: rgba(255, 255, 255, 0.815);
-    width: 800px;
-    margin: 10px auto;
+    margin: 10px;
 
   }
 
