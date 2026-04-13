@@ -74,14 +74,11 @@ section {
 }
 
 .section1 {
-  background-image: url(assents/imagem\ s.png);
-  background-size: cover;
-  background-position: center;
+background-color: #050218af;
  
   h2 {
     font-size: 12vw;
-    color: rgba(101, 111, 155, 0.664);
-    mix-blend-mode: color-dodge;
+    color: rgb(255, 255, 255);
     margin: 10px 10px;
     
   }
