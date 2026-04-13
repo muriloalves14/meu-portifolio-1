@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: #030013e5;
-  color: rgba(255, 255, 255, 0.8);
+  background-color: #ffffffe5;
+  color: rgb(255, 255, 255);
   font-family: "Poppins", sans-serif;
   
 
@@ -33,7 +33,7 @@ a {
   transition: color 0.3s ease;
 }
 :hover ::view-transition-name(button) {
-  color: rgba(255, 255, 255, 0.815);
+  color: rgb(255, 255, 255);
 }
 
 p {
@@ -74,19 +74,18 @@ section {
 }
 
 .section1 {
-background-color: #050218af;
+background-color: #ffffffaf;
  
   h2 {
-    font-size: 12vw;
-    color: rgb(255, 255, 255);
+    font-size: 9vw;
+    color: rgb(0, 0, 0);
     margin: 10px 10px;
     
   }
   h1 {
     font-size: 10vw;
-    color: rgba(211, 198, 198, 0.788);
+    color: rgb(0, 0, 0);
     margin: 10px 5px;
-  
   }
 
   p {
@@ -97,7 +96,7 @@ background-color: #050218af;
 
   .paragrafo {
     font-size: 25px;
-     color: rgba(255, 255, 255, 0.815);
+     color: rgb(0, 0, 0);
     margin: 10px;
 
   }
@@ -115,7 +114,7 @@ background-color: #050218af;
   }
 
   .botaoprimario {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgb(209, 129, 129);
     gap: 10px;
     padding: 10px 20px 10px 20px;
     img {
@@ -124,9 +123,9 @@ background-color: #050218af;
   }
 
   .botaosecondario {
-    background-color: white;
-    border: 2px solid rgba(255, 255, 255, 0.884);
-    color: rgb(5, 5, 5);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
     padding: 10px 20px;
   }
 }
